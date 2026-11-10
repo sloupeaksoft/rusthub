@@ -1,0 +1,11 @@
+rusthud.config.title=Rust HUD
+rusthud.config.anchorRight=Правый нижний угол
+rusthud.config.offsetX=Отступ по X
+rusthud.config.offsetY=Отступ по Y
+rusthud.config.barWidth=Ширина полосок
+rusthud.config.rustStyleNumbers=Числа как в Rust (0-100)
+rusthud.config.showArmor=Показывать броню
+rusthud.config.showOxygen=Показывать кислород
+rusthud.config.showSaturation=Показывать насыщение
+rusthud.config.smoothAnimation=Плавная анимация
+rusthud.config.backgroundOpacity=Прозрачность фона

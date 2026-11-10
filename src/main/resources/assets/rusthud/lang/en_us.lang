@@ -1,0 +1,11 @@
+rusthud.config.title=Rust HUD
+rusthud.config.anchorRight=Bottom-right corner
+rusthud.config.offsetX=Offset X
+rusthud.config.offsetY=Offset Y
+rusthud.config.barWidth=Bar width
+rusthud.config.rustStyleNumbers=Rust-style numbers (0-100)
+rusthud.config.showArmor=Show armor bar
+rusthud.config.showOxygen=Show oxygen bar
+rusthud.config.showSaturation=Show saturation strip
+rusthud.config.smoothAnimation=Smooth animation
+rusthud.config.backgroundOpacity=Background opacity

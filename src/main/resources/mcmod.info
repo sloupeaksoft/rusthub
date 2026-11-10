@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "rusthud",
+    "name": "Rust HUD",
+    "description": "Rust-style health / food / armor / oxygen bars. No thirst.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "authorList": ["netrfloox"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
